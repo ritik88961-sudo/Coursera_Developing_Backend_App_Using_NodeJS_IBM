@@ -1,0 +1,11 @@
+ISBN,Title,Author,Genre,Publisher,PublicationYear,Language,Format,Edition,Price
+978-0201616224,Design Patterns: Elements of Reusable Object-Oriented Software,Erich Gamma & Richard Helm & Ralph Johnson & John Vlissides,Software Engineering,Addison-Wesley,1994,English,Hardcover,1st,60.00
+978-0131103627,The C Programming Language,Brian W. Kernighan & Dennis M. Ritchie,Programming,Prentice Hall,1988,English,Paperback,2nd,45.00
+978-0201633610,Refactoring: Improving the Design of Existing Code,Martin Fowler,Software Engineering,Addison-Wesley,1999,English,Hardcover,1st,55.00
+978-0596009205,Head First Java,Kathy Sierra & Bert Bates,Programming,O'Reilly Media,2005,English,Paperback,2nd,40.00
+978-0132350884,Clean Code: A Handbook of Agile Software Craftsmanship,Robert C. Martin,Software Engineering,Prentice Hall,2008,English,Paperback,1st,50.00
+978-0134685991,Effective Java,Joshua Bloch,Programming,Addison-Wesley,2018,English,Hardcover,3rd,65.00
+978-1617294945,Java Concurrency in Practice,Brian Goetz,Programming,Addison-Wesley,2006,English,Paperback,1st,55.00
+978-1449373320,You Don't Know JS,Kyle Simpson,JavaScript,O'Reilly Media,2015,English,Paperback,1st,35.00
+978-1491952023,JavaScript: The Good Parts,Douglas Crockford,JavaScript,O'Reilly Media,2008,English,Paperback,1st,30.00
+978-1491904244,Node.js Design Patterns,Mario Casciaro,Programming,Packt Publishing,2016,English,Paperback,2nd,45.00

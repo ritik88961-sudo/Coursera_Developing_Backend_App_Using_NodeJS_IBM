@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cf9"
+  },
+  "ISBN": "978-0201616224",
+  "Title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+  "Author": "Erich Gamma & Richard Helm & Ralph Johnson & John Vlissides",
+  "Genre": "Software Engineering",
+  "Publisher": "Addison-Wesley",
+  "PublicationYear": 1994,
+  "Language": "English",
+  "Format": "Hardcover",
+  "Edition": "1st",
+  "Price": 100
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cfa"
+  },
+  "ISBN": "978-0131103627",
+  "Title": "The C Programming Language",
+  "Author": "Brian W. Kernighan & Dennis M. Ritchie",
+  "Genre": "Programming",
+  "Publisher": "Prentice Hall",
+  "PublicationYear": 1988,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "2nd",
+  "Price": 45
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cfb"
+  },
+  "ISBN": "978-0201633610",
+  "Title": "Refactoring: Improving the Design of Existing Code",
+  "Author": "Martin Fowler",
+  "Genre": "Software Engineering",
+  "Publisher": "Addison-Wesley",
+  "PublicationYear": 1999,
+  "Language": "English",
+  "Format": "Hardcover",
+  "Edition": "1st",
+  "Price": 55
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cfc"
+  },
+  "ISBN": "978-0596009205",
+  "Title": "Head First Java",
+  "Author": "Kathy Sierra & Bert Bates",
+  "Genre": "Programming",
+  "Publisher": "O'Reilly Media",
+  "PublicationYear": 2005,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "2nd",
+  "Price": 40
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cfd"
+  },
+  "ISBN": "978-0132350884",
+  "Title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "Author": "Robert C. Martin",
+  "Genre": "Software Engineering",
+  "Publisher": "Prentice Hall",
+  "PublicationYear": 2008,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "1st",
+  "Price": 50
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cfe"
+  },
+  "ISBN": "978-0134685991",
+  "Title": "Effective Java",
+  "Author": "Joshua Bloch",
+  "Genre": "Programming",
+  "Publisher": "Addison-Wesley",
+  "PublicationYear": 2018,
+  "Language": "English",
+  "Format": "Hardcover",
+  "Edition": "3rd",
+  "Price": 65
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6cff"
+  },
+  "ISBN": "978-1617294945",
+  "Title": "Java Concurrency in Practice",
+  "Author": "Brian Goetz",
+  "Genre": "Programming",
+  "Publisher": "Addison-Wesley",
+  "PublicationYear": 2006,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "1st",
+  "Price": 55
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6d00"
+  },
+  "ISBN": "978-1449373320",
+  "Title": "You Don't Know JS",
+  "Author": "Kyle Simpson",
+  "Genre": "JavaScript",
+  "Publisher": "O'Reilly Media",
+  "PublicationYear": 2015,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "1st",
+  "Price": 35
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6d01"
+  },
+  "ISBN": "978-1491952023",
+  "Title": "JavaScript: The Good Parts",
+  "Author": "Douglas Crockford",
+  "Genre": "JavaScript",
+  "Publisher": "O'Reilly Media",
+  "PublicationYear": 2008,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "1st",
+  "Price": 30
+},
+{
+  "_id": {
+    "$oid": "67a38866a3e87f21b88e6d02"
+  },
+  "ISBN": "978-1491904244",
+  "Title": "Node.js Design Patterns",
+  "Author": "Mario Casciaro",
+  "Genre": "Programming",
+  "Publisher": "Packt Publishing",
+  "PublicationYear": 2016,
+  "Language": "English",
+  "Format": "Paperback",
+  "Edition": "2nd",
+  "Price": 45
+}]

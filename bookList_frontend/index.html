@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bookstore</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to the Bookstore</h1>
+      <button id="logoutBtn" style="display: none">Logout</button>
+    </header>
+
+    <div id="loginSection" class="auth-section">
+      <h2>Login</h2>
+      <input type="email" id="loginEmail" placeholder="Email" required />
+      <input
+        type="password"
+        id="loginPassword"
+        placeholder="Password"
+        required
+      />
+      <button id="loginBtn">Login</button>
+      <p>Don't have an account? <a href="#" id="showRegister">Register</a></p>
+    </div>
+
+    <div id="registerSection" class="auth-section" style="display: none">
+      <h2>Register</h2>
+      <input type="text" id="registerName" placeholder="Name" required />
+      <input type="email" id="registerEmail" placeholder="Email" required />
+      <input
+        type="password"
+        id="registerPassword"
+        placeholder="Password"
+        required
+      />
+      <button id="registerBtn">Register</button>
+      <p>Already have an account? <a href="#" id="showLogin">Login</a></p>
+    </div>
+
+    <div id="bookSection" style="display: none">
+      <h3>Edit Book</h3>
+      <form id="editBookForm">
+        <input type="text" id="editISBN" placeholder="ISBN" required />
+        <input type="text" id="editTitle" placeholder="Title" required />
+        <input type="text" id="editAuthor" placeholder="Author" required />
+        <input type="text" id="editGenre" placeholder="Genre" required />
+        <input type="number" id="editPrice" placeholder="Price" required />
+        <button type="submit">Update Book</button>
+      </form>
+      <h2>Books</h2>
+      <ul id="bookList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
